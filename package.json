@@ -1,0 +1,25 @@
+{
+  "name": "appdevapp",
+  "version": "1.0.0",
+  "description": "AppDev Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svaigas/appdevapp.git"
+  },
+  "keywords": [
+    "AppDev"
+  ],
+  "author": "Mateusz Adamiec AppDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svaigas/appdevapp/issues"
+  },
+  "homepage": "https://github.com/Svaigas/appdevapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
