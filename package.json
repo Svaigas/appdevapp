@@ -2,7 +2,7 @@
   "name": "appdevapp",
   "version": "1.0.0",
   "description": "AppDev Application",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "test"
   },
@@ -19,6 +19,9 @@
     "url": "https://github.com/Svaigas/appdevapp/issues"
   },
   "homepage": "https://github.com/Svaigas/appdevapp#readme",
+  "engines": {
+    "node": ">=12.13.1"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
